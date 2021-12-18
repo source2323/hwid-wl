@@ -1,4 +1,1 @@
-return {
-    "C20B8D69-7674-4510-BB8B-ECA8FCA27A33",
-    "DC12856D-917D-4FA1-A033-D72848C6286F"
-}
+game.ReplicatedStorage.MainEvent:FireServer("OneMoreTime")
